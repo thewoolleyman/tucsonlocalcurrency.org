@@ -1,0 +1,24 @@
+body {
+  color:#003663;
+  font-family:Verdana,'Lucida Grande',Arial,sans-serif;
+  font-size:12px;
+  line-height:1.7em;
+}
+
+.float-left {
+  float:left;
+}
+
+.float-right {
+  float:right;
+}
+
+.clear {
+  clear: both;
+}
+
+img {
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
